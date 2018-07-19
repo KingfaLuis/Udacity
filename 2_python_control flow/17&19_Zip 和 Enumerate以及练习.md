@@ -274,3 +274,11 @@ print(cast)
 ```
 ['Barney Stinson 72', 'Robin Scherbatsky 68', 'Ted Mosby 72', 'Lily Aldrin 66', 'Marshall Eriksen 76']
 ```
+
+### zip应用实际更新
+
+```
+        for url,xl in zip(urls,xls): #用法参考链接：
+            page_shop_urls.append([url('href'),xl.get_text()])
+```
+- 在爬虫中拼接链接
