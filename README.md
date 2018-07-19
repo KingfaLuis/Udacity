@@ -8,7 +8,7 @@
 
 ### 第一章 python基础
 
-编号为1,2,3,4的文件夹里记录的是Python的基础知识，包括Python的学习背景，学习用处；python的数据结构与算符；python的控制流；python函数式编程；python脚本代码的编写；以及非常多的细节，不但记录着学习python必知必会的基础知识，还记录有编写python的代码良好习惯的记录。[加入学习](https://github.com/KingfaLuis/Udacity/tree/master/1_python_foundamention)
+编号为1,2,3,4的文件夹里记录的是Python的基础知识，包括Python的学习背景，学习用处；python的数据结构与算符；python的控制流；python函数式编程；python脚本代码的编写；以及非常多的细节，不但记录着学习python必知必会的基础知识，还记录有编写python的代码良好习惯的记录。相对于其他面向对象语言，控制流中有意思的地方有，zip和Enumerate；还有列表推导式。会令你大开眼界。[加入学习](https://github.com/KingfaLuis/Udacity/tree/master/1_python_foundamention)
 
 ### 第二章 数据分析基本库
 
