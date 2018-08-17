@@ -1,0 +1,75 @@
+# 定义类的方法
+
+@classmethod
+ 
+@ property
+
+'''
+class Example(object):
+    def add(self):
+        pass
+    def _minus(self)：
+        pass
+    def __multiply(self):
+        pass
+  
+class Programer(object):
+    hobby = 'Play Computer'
+    
+    def __init__(self,name,age,weight):
+        self.name = name
+        self.age = age
+        self.weight = weight
+        
+    @classmethod
+    def get_hobby(cls):
+        return cls.hobby
+        
+    @property
+    def get_weight(self):
+        self.__weight
+        
+    def self_introduction(self):
+        print 'My name is %s \nI am %s years old\n' % (self.name,self._age
+        
+if __name__ == "__main__":
+    programer = Programer('KingfaLuis',25,60)
+    print dir(programer)
+    print Programer.get_weight
+    programer.self_introduction()
+'''
+
+# 累的继承
+class A(object):
+
+isinstance
+issubclass
+
+## 多继承
+class  D(A,B,C):
+   PASS
+   
+# 多态
+ 
+# Python Magic Method
+方法名前后有两个下划线的方法
+ 
+def __init__():
+    pass
+    
+    
+## chuan
+
+def __new__(cls):
+    pass
+def __init__(self,name,age)
+    pass
+    
+if __name__ == "__main__":
+
+# 运算符
+ 
+- 比较运算符
+- 数字运算符
+- 逻辑运算符
+  
