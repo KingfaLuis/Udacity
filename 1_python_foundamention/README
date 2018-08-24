@@ -1,3 +1,10 @@
 注意每个文件的开头部分的序号的理解：文件名开头的序号，是为了和我学的课时对应，
 很多标题都把几个数字使用‘&’符号连接起来，是为了表示这是几个课时的课程的笔记结合，是因为有的几个课时讲的是同一个内容。
 这样以后我再次复习视屏课程的时候，就会很清楚对应是哪个课程。希望读者们能清楚。
+
+关于list，dict，set comprehension,我认为这篇英文文章讲得非常专业。
+https://www.smallsurething.com/list-dict-and-set-comprehensions-by-example/
+
+关于单例模式
+https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Singleton.html
+单例模式这是必须要学习的，前人的开发经验，23中，足够摸索
